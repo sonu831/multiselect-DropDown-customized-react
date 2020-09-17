@@ -9,10 +9,12 @@
   },
   "author": "Yogendra Singh",
   "license": "MIT",
-  "homepage": "https://10xn41w767.codesandbox.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/srigar/multiselect-react-dropdown"
+    "url": "https://github.com/sonu831/multiselect-custom-dropdown"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
     "react": "^16.7.0",
