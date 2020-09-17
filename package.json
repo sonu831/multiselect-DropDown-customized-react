@@ -1,6 +1,6 @@
 {
   "name": "multiselect-custom-dropdown",
-  "version": "1.5.8",
+  "version": "1.0.0",
   "description": "React multiselect custom dropdown component with search and various features",
   "main": "build/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "https://github.com/sonu831/multiselect-custom-dropdown"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/@sonu831"
   },
   "dependencies": {
     "react": "^16.7.0",
